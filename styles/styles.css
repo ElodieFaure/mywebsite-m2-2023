@@ -1,0 +1,25 @@
+/*internal librairies*/
+@import"banner.css";
+@import"buttom.css";
+@import"cards.css";
+@import"footer.css";
+
+/*external librairies*/
+
+/* fonts and color*/
+
+/*general styles*/
+
+body{
+margin: 0;
+}
+
+a{ 
+    text-decoration: none;
+}
+
+
+.container{
+width: 85%;
+margin: 24px auto;
+}
